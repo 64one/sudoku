@@ -32,8 +32,8 @@
    <string>Sudoku</string>
   </property>
   <property name="windowIcon">
-   <iconset>
-    <normaloff>sudoku.png</normaloff>sudoku.png</iconset>
+   <iconset resource="../resources.qrc">
+    <normaloff>:/Files/sudoku.png</normaloff>:/Files/sudoku.png</iconset>
   </property>
   <property name="styleSheet">
    <string notr="true">color: black;
