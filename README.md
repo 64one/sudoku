@@ -68,7 +68,7 @@ A feature-rich Sudoku game built with Python and PyQt that combines an elegant i
 
 - **Blue Numbers**: Player entries
 - **Black Numbers**: Pre-filled puzzle numbers
-- **Green Numbers**: Hint numbers
+- **Green Highlighting**: Hint numbers
 - **Red Highlighting**: Indicates rule conflicts
 - **Gray Highlighting**: Shows all cells with the same value as the selected cell
 
